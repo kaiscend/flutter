@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.ct
 Naumchuk Egor mib 001
 Screen
-https://drive.google.com/file/d/1SghhWfP1vsAgwguqUm-CNyYReK4rXv7_/view?usp=sharing
+![screenshot_flutter](https://github.com/kaiscend/flutter/assets/56931684/e14ddcd6-4ca0-4160-a69f-8fe7c7ced342)
+
